@@ -169,7 +169,7 @@ def addgraphWeightings(graph,talkList,preferences,moving_penalty=-10,session_pre
 #                 print(weightings[interaction])
                 weightings[interaction] = weightings[interaction] + preferences[preference]
 #                 print(weightings[interaction])
-            if targetTalk.session in preferences:
+            if targetTalk.session in preference:
 #                 print(weightings[interaction])
                 weightings[interaction] = weightings[interaction] + preferences[preference]
 #                 print(weightings[interaction])
