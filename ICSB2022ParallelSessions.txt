@@ -1,0 +1,1286 @@
+Day 9
+Session 1
+: TUMOR ECOSYSTEMS
+10:30-10:50
+290
+Kristen Naegle and Sam Crowl. Inferring kinase activity of a tumor from phosphoproteomic data
+10:50-11:10
+47
+Heewon Park, Koji Maruhashi and
+Satoru Miyano
+. XAI × Fugaku uncovered EMT mechanisms via cancer characteristicspecific gene network analysis
+11:10-11:23
+57
+Fariba Roshanzamir, Jonathan L. Robinson, Daniel Cook, Mohammad Hossein Karimi-Jafari and Jens Nielsen. Are metastatictriple negative breast cancers closer to their parental tumors or primary tumors of their destination tissues?
+11:23-11:36
+104
+Carlos Lopez. Unified Tumor Growth Mechanisms from Multimodel Inference and Dataset Integration
+11:36-11:49
+155
+Adam Streck, Tom Kaufmann and Roland F. Schwarz. Stochastic Model of Intra-Tumor Heterogeneity (SMITH)
+11:49-12:02
+238
+Tae-Yun Kang, Soraya Scuderi, JinSeok Park and Andre Levchenko. Vasculogenic mimicry induced by multicellularinteraction in a 3D glioblastoma model-on-a-chip
+12:02-12:15
+272
+Dennis Vitkup. Cancer cells depend on environmental lipids for proliferation when electron acceptors are limited
+12:15-12:18
+101
+Juho Pirhonen, Abel Szkalisity, Jaana Hagström, Yonghyo Kim, Ede Migh, Mária Kovács, Maarit Hölttä, Johan Peränen, HannaSeppänen, Caj Haglund, Jeovanis Valdés, Melinda Rezeli, Johan Malm, Peter Horvath, György Marko-Varga, PauliPuolakkainen and Elina Ikonen. Lipid metabolic reprogramming extends beyond histological tumor demarcations in humanoperable pancreatic cancer
+12:18-12:21
+254
+José Carbonell-Caballero, Antonio López-Quílez, David Conesa, Joaquín Dopazo and Alfonso Valencia. Disentangling theinternal composition of tumour activities through a hierarchical factorization model
+12:21-12:24
+419
+Lars Bosshard and Michael Prummer. Cell type-specific gene co-expression modules define tumor heterogeneity inmelanoma patients
+12:24-12:25
+70
+Claire Villette and Liesbet Geris. Hybrid cellular automaton representation of the influence of mechanical stimulation on thedevelopment of bone metastases
+12:25-12:26
+120
+Jonghyun Lee, Najung Lim, Minwoo Kim, Juyeon Cho and Dongkwan Shin. Single cell pseudo-time inference based on copynumber variants for identifying a tumor transition state
+12:26-12:27
+283
+Madison Wahlsten, Amin Akhshi, Sooraj Achar, Anagha Krishnan, Paul François and Grégoire Altan-Bonnet. Deep learning amodel of cytotoxic T cell activation in the tumor microenvironment
+12:27-12:28
+404
+Mareike Polenkowski, Sebastian Burbano de Lara, Aldrige Bernardus Allister, Anna Saborowski, Arndt Vogel and Doan DuyHai Tran. Exploring the “dark proteome” in hepatocellular carcinoma
+12:28-12:29
+442
+Lina Kroehling, Mohammed Muzamil Khan, Maria Kukuruzinska, Xaralabos Varelas, Manish Bias and Stefano Monti. Analysisof Heterogeneity in the Tumor Microenvironment in the 4NQO HNSCC Mouse Model
+Session 2
+: IMAGING ALGORITHMS
+10:30-10:50
+395
+Chris Bakal. The Systems of Size and Shape Control
+10:50-11:03
+309
+Jae Kyoung Kim
+. Robust oscillations against spatial-temporal noise in intra-inter cellular kinetics
+11:03-11:15
+45
+Reuven Falkovich, Eric Danielson, Karen Perez de Arce, Eike Wamhoff, Jeffrey Cottrell, Morgan Sheng and Mark Bathe.Inference of a causal synaptic molecular network from multiplexed imaging and its perturbations in autism andschizophrenia
+11:15-11:27
+76
+Daniel Seeler
+, Nastasja Grdseloff, Claudia Jasmin Rödel, Charlotte Kloft, Salim Abdelilah-Seyfried and Wilhelm Huisinga.Development of a geometric blood vessel model to quantify morphological changes of endothelial cells in 3D duringvascular remodeling
+11:27-11:39
+203
+Marielle Péré
+,
+Diego Oyarzun
+,
+Madalena Chaves
+and
+Jérémie Roux
+. Analyzing single-cell trajectories with augmentedmachine learning methods predicts cancer drugs response in live-cell microscopy assays
+11:39-11:51
+256
+Wolfgang Giese
+, Jan Phillipp Albrecht, Olya Oppenheim, Leo Epstein, Kyle Harrington and Holger Gerhardt. PolarityJaM: Animage analysis toolbox for cell polarity, junction and morphology quantification
+11:51-12:01
+305
+Behnam Amiri, Johannes C.J. Heyn, Joachim O. Rädler and Martin Falcke. On multistability and constitutive relations of cellmotion on Fibronectin lanes
+12:01-12:04
+91
+Kajsa Tunedal, Carl-Johan Carlhäll, Federica Viola, Tino Ebbers and Gunnar Cedersund. Insights on hemodynamic changesin hypertension and T2D through non-invasive cardiovascular modeling
+12:04-12:07
+193
+Asma Chalabi, Eric Debreuve and Jérémie Roux. Dynamic analysis framework to detect cell division and cell death in live-cell imaging, using signal processing and machine learning
+12:07-12:10
+275
+Matthew Lux and Dominic Jenner. Combining single-cell imaging techniques to probe surface-adhesion-dependentmorphological features of disease state
+12:10-12:30
+396
+Julia Sero. Morphometric analysis of macrophage populations in response to animal-derived extracellular matrices
+Session 3
+: SINGLE CELL MODELING
+10:30-10:50
+386
+Steven Altschuler
+,
+Lani Wu
+and Chris Waters. Avoiding errant activation of mitophagy: dual factor authentication of thePink1/Parkin circuit
+10:50-11:10
+387
+Erik van Nimwegen. How do single bacterial cells make decisions?
+11:10-11:28
+111
+Shuangyu Bi, Manika Kargeti, Remy Colin, Niklas Farke, Hannes Link and Victor Sourjik. Dynamic fluctuations in a bacterialmetabolic network
+11:28-11:40
+97
+Jenny Poulton
+and Pieter Rein ten Wolde. Optimal prediction of a noisy signal
+11:40-11:52
+93
+Jorin Diemer, Edda Klipp and Kiaran Kirk. Non-monotonic Na+ dynamics in the malaria parasite Plasmodium falciparum
+11:52-12:04
+144
+Martin Fahrenberger and
+Arndt von Haeseler
+. Accounting for low transcript sampling rates in scRNA-seq using the Good-Turing estimator
+12:04-12:16
+178
+Arran Hodgkinson, Maelle Bellec, Maria Douaihy, Adrian Devenyi, Mounia Lagha and Ovidiu Radulescu. Mitotic Memory asSpontaneous Symmetry Breaking in the Cell
+12:16-12:21
+163
+Sebastian Persson,
+Marija Cvijovic
+and
+Umberto Picchini
+. Scalable and flexible inference framework for stochastic dynamicsingle-cell models
+12:21-12:24
+204
+Daniel Schwabe, Sara Formichetti, Jan Philipp Junker, Martin Falcke and Nikolaus Rajewsky. The transcriptome dynamics ofsingle cells during the cell cycle
+12:24-12:25
+80
+Manish Yadav
+and
+Aneta Koseska
+. Theory of biochemical information processing with transients
+12:25-12:26
+197
+Antrea Pavlou,
+Hidde de Jong
+, Hans Geiselmann and
+Eugenio Cinquemani
+. Quantification of bacterial resource allocation inchangining environments on the single-cell level
+12:26-12:27
+198
+Patrick Stumpf
+, Joana Meyer, Alexandra Valeanu, Sandra Kiefer, Jeyashree Krishnan, Michael Schaub, Martin Grohe andAndreas Schuppert. Inference and dynamical simulation of the gene-regulatory network in single cells
+12:27-12:28
+226
+Michael Blinov
+,
+Ion Moraru
+,
+Leslie Loew
+and
+James Schaff
+. Virtual Cell Modeling and Simulation Software
+12:28-12:29
+418
+Robert Lott and Aneta Koseska. Cells use molecular working memory to navigate in changing chemoattractant fields
+12:29-12:30
+439
+Martin Proks, Jose A.H. Romero, Teresa E. Knudsen, Ala Trusina, Jakub Sedzinski and Joshua M. Brickman. Decipheringtranscriptional drivers of stem cell differentiation using causal inference
+Session 4
+: CLIMATE, BIOTOPES & MICROBIOMES
+13:30-13:40
+26
+Andrea Marfil Sánchez, Lu Zhang, Pol Alonso-Pernas, Mohammad Mirhakkak, Melinda Mueller, Bastian Seelbinder, YueqiongNi, Maria Ermolaeva, Michael Bauer and Gianni Panagiotou. An integrative understanding of the large metabolic shiftsinduced by antibiotics in critical illness
+13:40-13:50
+55
+Kristiyana Tsenova, Jörg Ackermann, Maria J.G.T. Vehreschild and Ina Koch. Agent-based modeling of spatiotemporalorganization of bacteria in the human gut
+13:50-14:00
+60
+Nils Kurzawa and Patrick Aloy. Microbial compound bioactivity descriptors enable large-scale prediction of small moleculeimpact on microbiota species and pathogens
+14:00-14:10
+113
+Melania Nowicka, Jakub M. Bartoszewicz and Bernhard Y. Renard. Towards identification of new life cycle-associatedregions in phage genomes using deep learning
+14:10-14:20
+119
+Andreas Dräger
+. Computationally Modeling the Human Microbiome of the Respiratory Tract
+14:20-14:30
+132
+Tara Hameed, Natasha Motsi, Elaine Bignell and Reiko J. Tanaka. Latent variable models of fungal growth considering thedata measurement process
+14:30-14:40
+139
+Reihaneh Mostolizadeh, Manuel Glöckler and
+Andreas Dräger
+. The metabolic community model of Staphylococcus aureusand four abundant human nasal microbes
+14:40-14:50
+187
+Laurenz Holcik, Florian Pflug and Arndt von Haeseler. GuaCAMOLE: fragment GC bias-aware abundance estimation frommetagenomic data increases accuracy and comparability
+14:50-15:00
+219
+Konstantine Tchourine, Martin Carballo-Pacheco and
+Dennis Vitkup
+. Macroecological Laws Naturally Arise from ComplexChaotic Dynamics of Gut Microbiota
+15:00-15:10
+300
+Wassili Dimitriew, Jan Ewald and Stefan Schuster. Human host and pathogenic fungi: modeling and deciphering nestedmetabolic defense strategies
+15:10-15:13
+61
+Yueqiong Ni, Lingling Qian, Sara Leal Siliceo, Xiaoxue Long, Emmanouil Nychas, Yan Liu, Marsena Jasiel Ismaiah, HowellLeung, Lina Zhou, Xiaolin Wang, Qi Li, Hani El-Nezami, Aimin Xu, Guowang Xu, Huating Li, Gianni Panagiotou and WeipingJia. Resistant starch decreases intrahepatic triglycerides in NAFLD patients via the gut microbiome contribution to thebranched-chain amino acids pool
+15:13-15:16
+152
+Tanja Holstein, Pieter Verschaffelt, Lennart Martens and Thilo Muth. A probabilistic graphical model for taxonomic profilingof viral and microbiome proteome samples
+15:16-15:19
+287
+Raquel Alonso-Roman
+,
+Sascha Schaeuble
+,
+Mark S. Gresnigt
+,
+Antonia Last
+,
+Mohammad H. Mirhakkak
+,
+Gianni Panagiotou
+and
+Bernhard Hube
+. Lactobacillus rhamnosus colonisation antagonizes Candida albicans by forcing metabolic adaptations thatcompromise pathogenicity
+15:19-15:22
+454
+Linge Li
+, Ticho Helming, Chrysoula K. Pantazopoulou,
+Ronald Pierik
+and
+Kaisa Kajala
+. Cell Type view into tomato stemelongation in Shade avoidance response
+15:22-15:25
+459
+Arran Hodgkinson, Katy Chapman, Katie Hall, Sean Rands and Natalie Hempel de Ibarra. Quantitative Impacts of Bumble BeeEcology on Foraging Behaviour: An Economic Model
+15:25-15:26
+211
+Emmanouil Nychas, Andrea Marfil Sánchez, Xiuqiang Chen, Yueqiong Ni and Gianni Panagiotou. Discovery of Robust andHighly Specific Microbiome Signatures for Non-Alcoholic Fatty Liver Disease
+15:26-15:27
+264
+Freddy Castillo Alfonso, Juan Carlos Sigala-Alanís, Gabriel Vigueras-Ramírez, Cecilio Valadez-Cano and Roberto Olivares-Hernández. From genome sequencing to the first draft of the genome scale metabolic model of the symbiont fungusLeucoagaricus gongylophorus LEU18496.
+15:27-15:28
+428
+Xiu Jia, Cas Cornet and Joana Falcão Salles. Effect of dispersal by inundation on soil bacterial communities depends on soildevelopmental stage
+15:28-15:29
+441
+Miller Merchant, Jeffrey Kimbrel, Ty Samo, Xavier Mayali and
+Ali Navid
+. In silico analysis of metabolic capabilities in asynthetic community of phycosphere bacteria
+15:29-15:30
+448
+Levi van Doorn, Ling-Yi Wu, Ernestina Hauptfield, Daniel Carillo, Sonya Grozdani, Nikolaos Pappas and Bas E. Dutilh.Benchmarking Phage-Host Prediction Tools using Real Metagenomics Data
+Session 5
+: DEEP HIDDEN PHYSICS
+13:30-13:50
+379
+Markus Heinonen. Continuous-time models under uncertainty
+13:50-14:15
+422
+Lars Holdijk. Path Integral Stochastic Optimal Control for Sampling Transition Paths
+14:15-14:28
+92
+Elba Raimundez, Michael Fedders and Jan Hasenauer. Posterior marginalization accelerates Bayesian inference for dynamicalsystems
+14:28-14:41
+263
+Hugo Dourado, Wolfram Liebermeister, Oliver Ebenhöh and Martin Lercher. The Economy and Control of Balanced CellularGrowth
+14:41-14:54
+268
+Maren Philipps and Jan Hasenauer. Hybrid mechanistic and deep learning modeling in systems biology
+14:54-15:07
+311
+Juan Munoz, Subash Balsamy, Juan P. Bernal Tamayo, Ali Balubaid, David Gomez Cabrero, Narsis A. Kiani and Jesper Tegner.Discovery of Hidden Control Variables and modeling Non-Linear Dynamical Biological Systems
+15:07-15:20
+350
+Natal van Riel
+and Bert Groen. Combining machine learning and ODE’s to build multiscale models for estimation ofmetabolic trajectories
+15:20-15:25
+453
+Domas Linkevicius, Melanie Stefan, Angus Chadwick and David C. Sterratt. Linking models of biochemical dynamics viamass-constrained neural ordinary differential equations
+15:25-15:26
+24
+Tomoyuki Yamaguchi. Reinforcement learning and Monte-Carlo tree search in gene expression enable the entire generegulation in a cell
+15:26-15:27
+136
+Domagoj Doresic, Jan Hasenauer and Stephan Grein. Efficient parameter estimation for ODE models with semi-quantitativedata using spline approximation
+15:27-15:28
+239
+Jorge Alberto Guzmán Maldonado and Andreas Schuppert. Hybrid models for cellular signaling: meso-scale pathwayidentification
+15:28-15:29
+306
+Sandip Saha
+,
+Sumeer A. Khan
+, Ali O. Balubaid,
+David Gomez-Cabrero
+,
+Narsis A. Kiani
+and
+Jesper N. Tegner
+. On data-drivenlearning of an effective energy landscape from trajectories of nonlinear dynamical biological systems
+15:29-15:30
+397
+Yuji Hirono, Takashi Okada, Hiroyasu Miyazaki and Yoshimasa Hidaka. Structural reduction of chemical reaction networksbased on topology
+Session 6
+: MODELS IN SPACE AND TIME
+13:30-13:50
+384
+Tobias Meyer, Bo Gong and Alex Thiemicke. Directed cell migration by cortical actin and ER-PM contact site-mediatedrestriction of receptor signaling to the front
+13:50-14:10
+353
+Pedro Mendes
+. Regulation of Mammalian Iron Physiology Across Scales
+14:10-14:23
+186
+David Steinbrecht and
+Nils Blüthgen
+. Modelling how mRNA flows through subcellular compartments
+14:23-14:35
+66
+Patrick Brunner, Lukas Kiwitz and
+Kevin Thurley
+. Spatio-temporal modeling reveals a layer of tunable control circuits for thedistribution of cytokines in tissues.
+14:35-14:47
+156
+Aneta Koseska. Real-time biochemical computations at criticality
+14:47-14:59
+182
+Deniz Fettahoglu, Charbel Choufani, Anna Castro, Thierry Lorca and Ovidiu Radulescu. Stochasticity of Meiotic Entry inXenopus Oocytes
+14:59-15:11
+237
+Cheol-Min Ghim and Junghun Chae. Rhythmic protein degradation for cost-effective circadian oscillation
+15:11-15:16
+393
+Viviane Klingel
+, Dimitri Graf, Sara Weirich, Albert Jeltsch and
+Nicole Radde
+. Model-based design of a synthetic oscillatorbased on an epigenetic memory system
+15:16-15:19
+51
+Jörn Starruß, Diego Jahn and Lutz Brusch. Advanced Modelling of Multicellular Systems in Morpheus
+15:19-15:22
+73
+Connor King, Brendan Podell and Sarah Cooper. Resolving Resolution Hindrances in Spatial Transcriptomics
+15:22-15:25
+185
+Yu Wang and Elling Jacobsen. Inferring individual interactions in gene regulatory networks with delays from time-seriesexperiments
+15:25-15:26
+36
+Ariane Ernst, Christof Schütte, Stephan Sigrist and
+Stefanie Winkelmann
+. Variance of filtered signals: characterization for linear reaction networks and application to neurotransmission dynamics
+15:26-15:27
+83
+Akhilesh Padmanabhan Nandan and Aneta Koseska. Dynamical basis of cellular sensing and responsiveness to spatial-temporal signals
+15:27-15:28
+133
+Zsófia Bujtár, Katharina Baum, Yao Zhang, Ines Lahmann, Carmen Birchmeier and Jana Wolf. Computational modeling of theHes1 oscillator for the self-renewal of muscle stem cells
+15:28-15:29
+172
+Rafael Arutjunjan
+,
+Emilia Neuwirt
+,
+Svenja Wöhrle
+,
+Olaf Groß
+and
+Clemens Kreutz
+. A powerful modelling approach tailored tocellular signalling
+15:29-15:30
+199
+Eric Reifenstein, Egemen Agi, Peter Robin Hiesinger and Max von Kleist. A robust model of neural superposition sorting
+Day 10
+Session 7
+: PREVENTING FUTURE PANDEMICS
+10:30-10:50
+336
+Markus Ralser
+. The metabolic and proteomic landscape of genome-scale genetic perturbation
+10:50-11:03
+235
+Corinna Holetschek, Mehmet Gökkaya, Karim Dorgham, Christoph Parizot, Assia Samri, Guy Gorochov, Claudia Traidl-Hoffmann and Avidan Neumann. Multi-dimensional immune correlates of early prediction of COVID-19 severe versusasymptomatic disease course
+11:03-11:16
+118
+Nantia Leonidou
+, Alina Renz, Reihaneh Mostolizadeh and
+Andreas Dräger
+. New workflow predicts drug targets againstSARS-CoV-2 via metabolic changes in infected cells
+11:16-11:28
+213
+Luca Musella, Jens Moeller, Lisa Baeumer, Julio Vera and Andreas Burkovski. Temporal Proteomics and TranscriptomicsUnravels the Host-Pathogen Interaction Network of Macrophages and Corynebacterium diphtheriae.
+11:28-11:40
+218
+Eliezer Flores-Garza
+,
+Elisa Domínguez-Hüttinger
+, Mario Zetter and Rogelio Hernández-Pando. Mathematical model of theimmunopathological progression of tuberculosis
+11:40-11:52
+278
+Ylva Ivarsson. Proteome-scale mapping of binding sites in the intrinsically disordered regions of human and viralproteomes
+11:52-12:02
+355
+Henning Hermjakob, Kausthubh Ramachandran, Matthias König, Martin Scharm, Tung V. N. Nguyen, Paul Jonas Jost, DilanPathirana, Elba Raimúndez, Dagmar Waltemath and Rahuman S Malik Sheriff. FAIR sharing of reproducible COVID-19models of epidemic and pandemic forecast
+12:02-12:14
+451
+Christopher Secker, Philipp Trepte, Julien Olivet, Soon Gang Choi, Simona Kostova, Jeremy Blavier, Sibusiso Maseko,Eduardo Silva Ramos, Patricia Cassonet, Sabrina Golusik, Martina Zenkner, Stephanie Beetz, Marcel Sperling, Yang Wang,Kerstin Spirohn, Tong Hao, Michael A Calderwood, David Hill, Yves Jacob, Jean-Claude Twizère, Marc Vidal and Erich EWanker. Identification of a SARS-CoV-2 inhibitor by combining binary protein-protein interaction mapping, structureprediction and virtual screening
+12:14-12:17
+146
+Ana I. Toledo Marrero, Severine Urdy, Nicolas Ratto, Matthias Hanke, Emmanuel Peyronnet, Evgueni Jacob, Giulio Foresto,Laurent Coudeville, Edward Thommes, Sandra S. Chaves, Jean-Pierre Boissel, Lara Bruezière and Eulalie Courcelles. A multi-strain model of immunization against influenza A viruses after infection or vaccination
+12:17-12:20
+252
+Simon Merkt
+, Esayas Kebede Gudina, Ali Solomon, Abhishek Bakuli, Kira Elsbernd, Lorenzo Contento, Michael Hoelscher,
+JanHasenauer
+, Andreas Wieser and Arne Kroidl. Seroepidemiology And Modeling Of SARS-CoV-2 In Ethiopia: LongitudinalCohort Study Among Front-line Health-care Workers And Community
+12:20-12:23
+312
+Fangfei Zhang, Augustin Luna, Tingting Tan, Yingdan Chen, Chris Sander and Tiannan Guo. COVIDpro: Database for miningprotein dysregulation in patients with COVID-19
+12:23-12:26
+402
+Björn Goldenbogen, Stephan O. Adler, Oliver Bodeit, Judith A.H. Wodke, Ximena Escalera-Fanjul, Aviv Kormann, Lasse Bonn,Rafael Morán-Torres, Johanna E.L. Haffner, Maxim Karnetzki, Ivo Maintz, Lisa Mallis, Hannah Prawitz, Patrick S. Segelitz,Martin Seeger, Rune Linding and Edda Klipp. Control of COVID-19 Outbreaks under Stochastic Community Dynamics,Bimodality, or Limited Vaccination
+12:26-12:27
+103
+Jacques Hermes, Christian Tönsing, Marcus Rosenblatt and
+Jens Timmer
+. Non-parametric model-based estimation of theeffective reproduction number for SARS-CoV-2
+12:27-12:28
+107
+Manuel Huth, Jan Hasenauer and Roy Gusinow. Federated mathematical modelling and machine learning for a multi-national cohort of COVID-19 patients
+12:28-12:29
+244
+Vanessa Nakonecnij, Lorenzo Contento, Jan Hasenauer, Martin Kühn, Steffen Krause, Andreas Hofmann, Gerald Angermair,Andreas Wieser and Rachel Rubio Acero. INSIDe: Integrative modeling of the spread of serious infectious diseases
+Session 8
+: YOUNG SCIENTIST FORUM
+10:30-10:35
+s9
+Session Chairs. Introduction
+10:35-10:45
+s2
+Ursula Kummer. Pitching for Classical modeling
+10:45-10:55
+s3
+Trey Ideker. Pitching for AI / ML modeling
+10:55-11:05
+s4
+Kevin Janes. Pitching for hybrid/data-driven modeling
+11:05-12:05
+s8
+Panel Composed Of Three Invited Pitchers.. Panel Discussion
+12:05-12:25
+s10
+Session Audience. Session 8 Q&A
+12:25-12:30
+s7
+Session Chairs. Final remarks
+Session 9
+: SIGNAL TRANSDUCTION
+10:30-10:50
+297
+Julio Saez-Rodriguez
+. Combining multi-omics and biological knowledge to understand signaling deregulation in disease
+10:50-11:05
+94
+Bishal Paudel, Lixin Wang, R Anthony McKnight and Kevin Janes. Cross-inhibitory feedbacks of nucleocytoplasmic transportgive rise to divergent multicellular phenotype in ERBB2-activated breast epithelia
+11:05-11:20
+250
+Marcel Schilling, Lorenz Adlung, Paul Stapor, Christian Tönsing, Leonard Schmiester, Luisa E. Schwarzmüller, Jens Timmer,Ursula Klingmüller and Jan Hasenauer. Cell-to-cell variability in JAK2/STAT5 pathway components and cytoplasmic volumesdefines survival threshold in erythroid progenitor cells
+11:20-11:34
+465
+Pau Creixell. Mechanisms of Pro- and Anti-Oncogenic Signaling Downstream of Dual Tyrosine Protein Kinases
+11:34-11:47
+171
+Michael Zhao, Takamasa Kudo, Kyle Kovary, Edward LaGory, Markus Covert and Mary Teruel. A dynamic HIF1α-PPARγcircuit controls a paradoxical adipocyte regulatory landscape
+11:47-11:59
+49
+Fabian Fröhlich, Luca Gerosa, Jeremy Muhlich and Peter Sorger. A Mechanistic model of EGFR and ERK signaling reveals howallostery and rewiring contribute to drug resistance
+11:59-12:11
+141
+Nathan Manes, Jessica Calzola, Pauline Kaplan, Anthony Armstrong,
+Iain Fraser
+,
+Ronald Germain
+,
+Martin Meier-Schellersheim
+and
+Aleksandra Nita-Lazar
+. Targeted Proteomics-Driven Computational Modeling of the Mouse MacrophageToll-like Receptor Signaling Pathway
+12:11-12:16
+147
+Marcus Rosenblatt
+, Frédérique Kok, Melissa Teusel, Marcel Schilling, Ursula Klingmüller and Jens Timmer. Mechanisticinsights into sensitization and desensitization of the Interferon α signal transduction pathway
+12:16-12:19
+67
+Daniel Koch
+. Information Processing by Homo-Oligomeric Proteins: From First Principles to Cardiac Disease
+12:19-12:22
+151
+Nguyen Tran and Andrew Clayton. Periodic Forcing of the ERK pathway
+12:22-12:25
+227
+Eric Batchelor
+. Coordination of p53 and MAPK dynamics controls heterogeneous responses to genotoxic agents in singlecells
+12:25-12:28
+461
+Guilaume Lieb. Dynamic single cell analysis of a MAPK signaling cascade and its impact on transcriptional output
+12:28-12:29
+161
+Yomn Abdullah, Severin Bang, Xiaomeng Li, Inga Kirstine Flaaten Motzfeldt, Barbara Helm, BjØrn Tore Gjertsen, MarcelSchilling, Jens Timmer and Ursula Klingmüller. Deciphering dysregulation in Erythroleukemia to design interventionstrategies
+12:29-12:30
+215
+Marcus Krantz, Robert Kruse, Eva Särndahl and Katarina Persson. Building the knowledge base to understand cellular signaltransduction in different inflammatory phenotypes
+12:30-12:31
+221
+Shubhank Sherekar and Ganesh Viswanathan. Boolean dynamic modeling of TNFR1 signaling predicts a nested feedbackloop regulating the apoptotic response at single-cell level
+Session 10
+: COMPUTATIONAL PATHOLOGY
+13:30-13:50
+329
+Peter J. Wild. System Pathology of Cancer
+13:50-14:00
+321
+Nadine Flinner. Advantages of Ensemble CNN’s in Computational Pathology.
+14:00-14:10
+331
+Hannah Sophie Muti. Artificial Intelligence in Digital Pathology Research - Where do we come from and where do we go?
+14:10-14:20
+330
+Rasmus Kiehl. EMPAIA - Harmonizing Access to Clinical-Grade AI Algorithms in Pathology
+14:20-14:40
+328
+Peter Boor. Computational Pathology of Kidney Disease
+14:40-14:45
+15
+Elie-Julien El Hachem, Nataliya Sokolovska and Hédi Soula. Latent Dirichlet Allocation for Double Clustering (LDA-DC):Discovering patients phenotypes and cell populations within a single Bayesian framework
+14:45-14:50
+20
+Amit Frishberg, Neta Milman, Joachim Schultze, Shai Shen-Orr and Fabian Theis. Reconstructing a quantitative measure ofdisease dynamics for discovery and clinical benefit
+14:50-14:55
+229
+Joseph Chan
+, Samir Zaidi, Jillian Love, Jimmy Zhao, Manu Setty, Kristine Wadosky, Anuradha Gopalan, Zi-Ning Choo, SitaraPersad, Jungmin Choi, Justin LaClair, Kayla Lawrence, Ojasvi Chaudhary, Tianhao Xu, Ignas Masilionis, Irina Linkov,Shangqian Wang, Cindy Lee, Afsar Barlas, Michael Morris, Linas Mazutis, Ronan Chaligne, Yu Chen, David Goodrich, WouterKarthaus, Dana Pe'Er and Charles Sawyers. Lineage plasticity in prostate cancer depends on FGFR and JAK/STATinflammatory signaling
+14:55-15:00
+340
+Julia Casado, Angela Szabo, Teodora Farago, Inga-Maria Launonen, Ella Anttila, Jia-Ren Lin, Kevin Elias, Peter Sorger andAnniina Färkkilä. Tribus reveals the single-cell tumor architecture and effect of chemotherapy in ovarian cancer
+15:00-15:05
+175
+Janan Arslan, Pawan Kumar, Arran Hodgkinson, Haocheng Luo, Pierrick Dupré, Sarah Dandou, Christine Pignodel, RomainLarive, Matthieu Lacroix, Laurent LeCam, Daniel Racoceanu and Ovidiu Radulescu. 3D reconstruction and mathematicalmodelling of whole slide images to elucidate resistance to the targeted therapy in melanoma
+15:05-15:10
+407
+Lise Minaud, Daniel R. Wong, Sina Ghandian, Edwin S. Monuki, Shino D. Magaki, Harry V. Vinters, Christopher Williams, MariPerez-Rosendahl, John Paul Graff, Hollie Adams, Sakshi Das, Yamah Hamsafar, Zin Hu, Yan Hu, Lee-Way Jin, Jerry Lou,Alessandra C. Martini, My-Le Nguyen, Danielle Harvey, Jana Tarabay, Michael J. Keiser and Brittany N. Dugger. Automateddetection and regional classification of Cerebral Amyloid Angiopathy in digital whole slide images
+15:10-15:15
+406
+Haoyang Mi
+, Shamilene Sivagnanam, Courtney Betts, Shannon Liudahl,
+Elizabeth Jaffee
+,
+Lisa Coussens
+and
+AleksanderPopel
+. Quantitative Spatial Profiling Reveals Tumor Microenvironment Heterogeneity and Prognostic Biomarkers Associatedwith Immune Population Architectures
+15:15-15:20
+440
+Bharti Arora, Ajinkya Kulkarni,
+Fernanda Ramos
+,
+Philipp Ströbel
+,
+Frauke Alves
+and
+Andrea Markus
+. Quantification of imagingbiomarkers in the extracellular matrix of left and right sided colon cancer tissues
+15:20-15:25
+463
+Sina Ghandian, Lise Minaud, Brittany Dugger and
+Michael Keiser
+. Rapid parallel model inference and on-the-fly tiling ofdigital pathology images
+15:25-15:30
+464
+Fernando Perez-Villatoro, Lilian van Wagensveld, Siamak Hajizadeh, Julia Casado, Ella Anttila, Maaike A van der Aa, Roy FpmKruitwagen, Gabe S Sonke, Koen K Van de Vijver, Peter K. Sorger, Hugo M. Horlings and Anniina Färkkilä. Single-cell spatialatlas of high-grade serous ovarian cancer
+Session 11
+: CAREER FORUM
+13:30-13:40
+411
+Olaf Wolkenhauer
+. Interdisciplinarity - Recommended career move?
+13:40-13:55
+408
+Jaekyoung Kim. How to find good problems with collaborators!
+13:55-14:10
+413
+Maria Polychronidou. From bench to scientific publishing
+14:10-14:25
+412
+Jana Wolf
+. From Academic Research to Pharmaceutical R&D and Back
+14:25-14:40
+409
+Bernhard Steiert. Thinking of a career in big pharma? Here is what you need to know.
+14:40-15:30
+s11
+Thomas Lemberger. Q&A and Open Discussion
+Session 12
+: CHEMICAL & GENETIC SYSTEMS BIOLOGY
+13:30-13:50
+293
+Charles Boone. Mapping Genetic and Chemical Genetic Interaction Networks in Yeast and Human Cells
+13:50-14:10
+53
+Patrick Aloy
+. Formatting Biological Big Data to Enable Systems Pharmacology
+14:10-14:30
+157
+Francesc Posas. Dissecting the principles underlying transcriptional heterogeneity
+14:30-14:43
+59
+Mattia Zampieri
+. CRISPRi meets metabolomics: a platform for rapid functional annotation of compound libraries
+14:43-14:56
+110
+Duncan Holbrook-Smith, Stella Reichling, Peter F Doubleday, Tomas Germade, Ariane Bergmann, Robbie Loewith and UweSauer. Dynamic metabolome profiling uncovers potential TOR signaling genes
+14:56-15:09
+228
+Alejandra Alvarado, Andreas Verhuelsdonk, Niklas Farke, Timo Glatter and
+Hannes Link
+. Mapping metabolic regulation in E.coli with a metabolism-wide CRISPRi library
+15:09-15:16
+414
+Andy Fraser, June Tan and Maria Mercado. A new platform for deep multiplexed metabolomics with a DNA barcode readout
+15:16-15:23
+426
+Wolfram Liebermeister
+. Enzyme economy in metabolic networks
+15:23-15:24
+62
+Yu Huo, Xiao Wang, Jack W. Thomson and Peter S. Swain. Dynamics of growth and ribosome level in batch cultures of S.cerevisiae
+15:24-15:25
+84
+Xiao-Pan Hu and Martin Lercher. An optimal RNA growth law and its relationship with genome organization in bacteria
+15:25-15:26
+89
+Hollie Hindley, Andrea Weiße and Meriem El Karoui. A model of RNA repair to study antibiotic tolerance
+15:26-15:27
+241
+Wenyu Wang and
+Jing Tang
+. Gene-essentiality based drug signature helps repurposing non-cancer drugs
+15:27-15:28
+273
+Elena Pascual Garcia
+, Andrea Weiße, Charlotte Kloft and Wilhelm Huisinga. Towards rational design of antibioticcombination therapies
+15:28-15:29
+436
+Lukas Annerer-Walcher and Ulrich Stelzl. Patterns of differentially essential genetic interactions characterize functionalmodules across cancer types
+15:29-15:30
+87
+Mariyam Khan, Adriaan Ludl, Sean Bankier and Tom Michoel. Identification of causal genes at GWAS loci with pleiotropicgene regulatory effects using instrumental variable sets
+Session 17A
+: WILDCARDS *.* [Part I]
+13:30-13:40
+23
+Xavier Hernandez-Alias
+, Hannah Benisty, Luis Serrano and Martin H. Schaefer. Tissue-specific codon usage: from systemsto synthetic biology
+13:40-13:50
+39
+St. Elmo Wilken and Oliver Ebenhöh. Interrogating the effect of enzyme kinetics on metabolism using differentiableconstraint-based models
+13:50-14:00
+217
+Tim D Rose,
+Nikolai Köhler
+, Lisa Falk, Lucie Klischat, Olga E Lazareva and Josch K Pauling. Lipid network and moiety analysisfor revealing enzymatic dysregulation and mechanistic alterations from lipidomics data
+14:00-14:10
+236
+Franziska Elsässer, Cathy Marulli, Mattia Gollub, Christian Doerig, Alexander Leitner, Jörg Stelling and Paola Picotti.Structural proteomics evidence for a predicted glycolytic metabolon
+14:10-14:20
+266
+Wilhelm Huisinga
+. From System Biology to Pharmacology: Identifying what is important
+14:20-14:30
+270
+Mathias Gotsmy, Julia Brunmair, Andrea Bileck, Astrid Slany, Samuel Matthias Meier-Menches, Christopher Gerner and
+Jürgen Zanghellini
+. Non-invasive, quantitative finger sweat metabolomics enables assessing dynamic metabolic patterns inhumans
+14:30-14:40
+277
+Dinara Usmanova, German Plata and Dennis Vitkup. Optimization of functional efficiency in key tissues constrains proteinrate of evolution in multicellular species
+14:40-14:50
+324
+Yun Min Song
+,
+Hyukpyo Hong
+and
+Jae Kyoung Kim
+. Universally valid reduction of multiscale stochastic biochemical systemswith simple non-elementary propensities
+14:50-15:00
+338
+Niklas Hartung
+. A physiologically-structured population model for pharmacokinetics of orally inhaled drugs
+15:00-15:10
+415
+Ahmad Sadeghi, Roxane Dervey, Vojislav Gligorovski, Marco Labagnara and Sahand Jamal Rahi. When cells decide to give upon repairing DNA damage
+15:10-15:20
+416
+Nicole Radde and Vincent Wagner. Quasi-Entropy Closure: A Fast and Reliable Approach to Close the Moment Equations ofthe Chemical Master Equation
+15:20-15:23
+294
+Yusuf Roohani, Kexin Huang and Jure Leskovec. GEARS: Predicting transcriptional outcomes of novel multi-geneperturbations
+15:23-15:26
+444
+Susana Roman Garcia
+,
+Melanie Stefan
+, David Sterratt, Nicola Romano, Malvika Sharan and Claudia Fischer. Bias andreproducibility in a Computational Neurobiology PhD’s journey
+15:26-15:27
+135
+Melania Nowicka and
+Heike Siebert
+. Learning synthetic cell classifier designs with genetic algorithms and logicprogramming
+15:27-15:28
+167
+Tin Yau Pang and Martin Lercher. Predicting metabolite accumulation in cancerous metabolic network
+15:28-15:29
+301
+Sri Krishnan. Nonstationary Biomedical Signal Feature Extraction
+15:29-15:30
+302
+Ulf Schmitz, Veronika Petrova, Justin J.-L. Wong and John E.J. Rasko. Using multi-omics data and machine learning tounravel alternative splicing regulation
+Day 11
+Session 13
+: INTEGRATION OF COMPUTATIONAL APPROACHES
+10:30-10:50
+381
+Ursula Kummer. Integrating cellular and physiologically-based pharmacokinetic (PBPK) modelling
+10:50-11:10
+352
+Matteo Barberis. A Novel and Robust Molecular Switch Actuating the Quantitative Model of Eukaryotic Cell Cycle Control
+11:10-11:25
+116
+Severin Bang
+and Jens Timmer. More BANG for the buck: how to distribute measurements to optimize information gain formathematical models
+11:25-11:30
+3
+Baishakhi Tikader,
+Samir K. Maji
+and
+Sandip Kar
+. A generic approach to decipher the mechanistic pathway of heterogeneousprotein aggregation kinetics
+11:30-11:35
+6
+Amitava Giri and
+Sandip Kar
+. Unraveling the role of network motifs to decipher the origin of robust decision-making inbiological systems
+11:35-11:40
+54
+Sabine Peres
+, Marc Dinh and Vincent Fromion. Geometric programming to Solve Optimal Concentrations of Metabolites andEnzymes in Constraint-based modelling
+11:40-11:45
+81
+Juan Henao, Michael Lauber, Manuel Azevedo, Anastasiia Grekova, Fabian Theis, Markus List, Christoph Ogris and BenjaminSchubert. Multi-Omics Regulatory Network Inference in the Presence of Missing Data
+11:45-11:50
+82
+Sebastian Lobentanzer
+, Dénes Türei and
+Julio Saez-Rodriguez
+. BioCypher: an ontology-driven framework for flexibleharmonisation of large-scale biomedical knowledge graphs
+11:50-11:55
+183
+Yulan van Oppen and Andreas Milias-Argeitis. Fast parameter estimation for ODE-based models of heterogeneous cellpopulations
+11:55-12:00
+214
+Mattia Gollub, Thierry Backes, Hans-Michael Kaltenbach and Joerg Stelling. Statistical estimation of enzyme kinetics andpathway cost predicts overflow metabolism
+12:00-12:05
+216
+Johann F. Jadebeck, Mattia G. Gollub, Axel Theorell and Katharina Nöh. Integrating 13C labeling and thermodynamic datafor thermodynamically consistent Bayesian Metabolic Flux Analysis (T13C-MFA)
+12:05-12:10
+248
+Thomas Diederen and Nicola Zamboni. Simulation Based Metabolic Flux Inference
+12:10-12:15
+261
+Bilal Shaikh, Lucian Smith, Michael Blinov, Herbert Sauro, Jonathan Karr and Ion Moraru. BioSimulations: integrated models,model languages, model repositories, simulation experiments, simulation tools and data visualization
+12:15-12:20
+323
+Hyukpyo Hong
+,
+Dae Wook Kim
+and
+Jae Kyoung Kim
+. Systematic inference identifies a major source of heterogeneity in non-Markovian cell signaling dynamics: the rate-limiting step number
+12:20-12:25
+339
+Irina Balaur
+, Danielle Welter, David Nickerson, Rahuman Sheriff, Matthias König, Henning Hermjakob,
+Venkata Satagopam
+and Dagmar Waltemath. FAIR assessment of biosimulation models - a cross-community project
+12:25-12:26
+168
+Julia Naas and Arndt von Haeseler. FLOVELO - Pushing Boundaries of Cell Dynamics Inference with Maximum Flow Networks
+12:26-12:27
+269
+Rafael Arutjunjan, Björn Malte Schäfer and Clemens Kreutz. Exact Confidence Regions for Non-Linear Models
+12:27-12:28
+308
+Natalia Savytska,
+Peter Heutink
+and
+Vikas Bansal
+. Transcription start site signal profiling improves transposable elementRNA expression analysis at locus-level
+12:28-12:29
+399
+Eui Min Jeong, Yun Min Song and Jae Kyoung Kim. Combined multiple transcriptional repression mechanisms generateultrasensitivity and oscillations
+12:29-12:30
+403
+Santiago Ospina De Los Rios
+, Peter Bastian, Liam Keegan, Ursula Kummer and Sven Sahle. DUNE-COPASI: Multi-Compartment Diffusion-Reaction solver for Cell Biology
+Session 15
+: CANCER SYSTEMS BIOLOGY
+10:30-10:50
+373
+Mariko Okada. Gene expression heterogeneity arises from signaling networks
+10:50-11:10
+375
+Andrea Califano. Systematic elucidation and pharmacological targeting of non-oncogene dependencies at the single celllevel.
+11:10-11:25
+224
+Walter Kolch. Digital Twin models for the precision diagnosis and therapy of cancer
+11:25-11:37
+68
+Sebastien De Landtsheer, Apurva Badkas, Dagmar Kulms and Thomas Sauter. Model ensembling as a tool to forminterpretable multi-omic predictors of cancer pharmacosensitivity
+11:37-11:49
+105
+Giovanni Scala, Luigi Ferraro, Majello Barbara and Michele Ceccarelli. MultiOmics Network Embedding for SubType Analysis
+11:49-12:01
+176
+Eleanor Jayawant
+,
+Andrea Pepper
+,
+Chris Pepper
+and
+Simon Mitchell
+. Flow Cytometry Combined with Systems BiologyModelling Reveals Heterogeneous “NFkB Fingerprints” in DLBCL
+12:01-12:11
+281
+Bengi Ruken Yavuz, Chung-Jung Tsai, Ruth Nussinov and
+Nurcan Tuncbag
+. Discovery of Latent Drivers from DoubleMutations in Pan-Cancer Data
+12:11-12:21
+313
+Paul Lang
+, David Penas, Julio Banga, Daniel Weindl and Bela Novak. Improving our Mechanistic Understanding of Cell CycleDynamics
+12:21-12:24
+90
+Jennifer von Schlichting, Stefan Peidli, Markus Morkel and Nils Blüthgen. Modeling the tumor microenvironment in patient-derived organoid culture
+12:24-12:25
+7
+Vinodhini Govindaraj, Subrot Sarma, Atharva Karulkar, Rahul Purwar and
+Sandip Kar
+. Transcriptional fluctuations govern theserum dependent cell cycle duration heterogeneities in Mammalian cells
+12:25-12:26
+29
+Benjamin Smart, Lucia Marucci, Ludovic Renson and Irene de Cesare. Model Predictive Control of Cancer Cellular Dynamics:A New Strategy For Therapy Design
+12:26-12:27
+44
+Miquel Anglada-Girotto, Samuel Miravet-Verde, Sarah A. Head and Luis Serrano Pubul. Harnessing cancer heterogeneity forthe systematic discovery of treatable cancer-driver exons with spotter
+12:27-12:28
+112
+Apurva Badkas, Sébastien De Landtsheer and Thomas Sauter. Expanding the disease network of Glioblastoma Multiformevia topological analysis
+12:28-12:29
+222
+Ertugrul Dalgic, Merve Vural and Ozlen Konu. Mutually Antagonistic Protein Pairs of Cancer
+12:29-12:30
+388
+Xin Lai
+, Jinfei Zhou, Anja Wessely, Markus Heppt, Andreas Maier, Carola Berking, Julio Vera and Le Zhang. A diseasenetwork-based deep learning approach for characterizing melanoma
+Session 20
+: PLANT SYSTEMS BIOLOGY
+10:30-10:42
+16
+Mingjie He
+, Xuelian Li, Melissa Mang, Zhi Li, Uwe Ludewig and Waltraud Schulze. Co-expression analysis of transcriptomeand proteome identifies LRR-VIII-1 kinase and MAPK-kinase (MEK1) regulatory modules associated with P-deficiencyadaptation and P use efficiency in maize
+10:42-10:54
+18
+Sandra Correa, Hao Tong, Feng Zhu, Asdrubal Burgos and Zoran Nikoloski. A modular concept for modeling of plant lipidmetabolism
+10:54-11:06
+21
+Hao Tong, Roosa A. E. Laitinen and Zoran Nikoloski. Predicting plasticity of rosette growth and metabolic fluxes inArabidopsis thaliana
+11:06-11:18
+32
+Carissa Bleker, Ziva Ramsak, Vid Podpecan, Maja Zagorščak, Špela Baebler and Kristina Gruden. Stress Knowledge Map: Aknowledge resource for modeling of plant stress responses
+11:18-11:30
+71
+Timon W. Matz
+, Yang Wang, Ritika Kulshreshtha, Arun Sampathkumar and Zoran Nikoloski. Topological propertiesaccurately predict cell division events and organization of Arabidopsis thaliana’s shoot apical meristem
+11:30-11:42
+106
+Ivan Lebovka, Bruno Hay Mele, Xiaomin Liu, Alexandra Zakieva, Theresa Schlamp, Nial Gursanscky, Roeland Merks, RuthGroßeholz and Thomas Greb. Computational analysis of cambium activity during plant radial growth
+11:42-11:54
+194
+Antoni Garcia-Molina
+, Cristian Vicent, Victor Flors and Victoria Pastor. Metabolome-wise analysis of plants exposed toabiotic stress conditions to identify potential metabolites inducers of cross-tolerance to biotic stressors
+11:54-12:06
+202
+Fritz Forbang Peleke and Jedrzej Jakub Szymanski. Deep convolutional neural networks capture the relationship betweengenetic variation and gene expression in plants
+12:06-12:18
+232
+Daniel Koch. PlantEd - a serious game about plant growth that aims to support metabolic modeling with citizen science
+12:18-12:28
+356
+David Sankoff and Zhe Yu. Levels of evolutionary divergence of gene synteny blocks
+12:28-12:31
+140
+Maria Krantz and Oliver Niggemann. From Plants to Plants and Beyond: How Modeling Strategies from the Engineering FieldCould Benefit Systems Biology
+Session 14
+: WHOLE CELL MODELING
+13:30-13:50
+354
+Chiara Damiani
+. Can we trust genome-wide metabolic models?
+13:50-14:03
+74
+Martin Lercher
+and Hugo Dourado. The limit on dry mass density is an organizing principle for cellular physiology
+14:03-14:16
+245
+Yin Hoon Chew. How can we unleash the potentials of whole-cell modelling?
+14:16-14:26
+208
+Diana Széliová
+,
+Stefan Müller
+and
+Jürgen Zanghellini
+. Analyzing Optimal and Non-Optimal Resource Allocations in Whole-Cell Models
+14:26-14:46
+333
+Markus W. Covert. The E. coli Whole-Cell Modeling Project: Vision and Progress
+14:46-14:56
+247
+Qiong Yang
+. Building a synthetic cell: search for the minimal requirements for robust, sustainable, and tunable cell cycles
+14:56-15:06
+357
+Karthik Raman, Matthias König, Brett Oliver, Mirek Kratochvil, Daniel Lobo, Andreas Dräger, Sarah Keating, Frank T.Bergmann, Krishna Tiwari, Moritz Beber, Lavanya Raajaraam, Maziya Ibrahim, Pratyay Sengupta, Indumathi Palanikumar,Dinesh K B Kumar, Aswathy Raghu, Shreyansh Umale, Sanjaay Balakrishnan, Henning Hermjakob,
+Community Members
+and
+Rahuman S Malik Sheriff
+. FROG Analysis - a community standard to foster reproducibility and curation of constraint-basedmodels
+15:06-15:16
+343
+Pasquale Palumbo, Stefano Busti, Bas Teusink, Meike Wortel, Federico Papa, Cristina Airoldi, Lilia Alberghina and MarcoVanoni. A low-granularity model integrating metabolism, growth and cell cycle: towards multi-level whole cell modeling ofbudding yeast
+15:16-15:30
+322
+Alexander Hoffmann
+. Multi-scale modeling of B-cell fate decisions required for antibody generation
+Session 16
+: MULTISCALE MODELS
+13:30-13:50
+364
+Mary Teruel
+. Circadian and cell cycle control of terminal cell differentiation
+13:50-14:10
+360
+Kevin Janes. Individualized modules and models of enterovirus infection in host cells
+14:10-14:30
+170
+Stuart Campbell. Predicting pathogenicity of TPM1 variants using multi-scale models
+14:30-14:42
+246
+Bernhard Kramer, Jacobo Sarabia del Castillo and Lucas Pelkmans. Multimodal perception links cellular state to decisionmaking in single cells
+14:42-14:54
+251
+Simon Haendeler, Christopher Esk, Dominik Lindenhofer, Florian Pflug, Arndt von Haeseler and Jürgen A. Knoblich.Understanding Stem Cell Growth Dynamics in Human Cerebral Organoids
+14:54-15:04
+276
+Jana Wolf
+. Computational modeling for the elucidation of cell fate decisions in early development
+15:04-15:14
+400
+Matthias König
+and Jan Grzegorzewski. Physiologically based pharmacokinetic (PBPK) models for metabolic phenotypingand evaluation of liver function
+15:14-15:17
+27
+Sharmilla Chandrasegaran. A Systems Biology Approach To Study The Spatiotemporal Dynamics Of Senescent Cells InWound Healing And Tissue Repair
+15:17-15:20
+69
+Sonja Scharf, Patrick Wurzel, Hendrik Schäfer, Jörg Ackermann, Marin-Leo Hansmann and Ina Koch. Modeling the adaptiveimmune response of a lymph node as Petri net
+15:20-15:23
+79
+Tilda Herrgårdh, Elizabeth Hunter, Kajsa Tunedal, John D. Kelleher and Gunnar Cedersund. Digital twins and hybridmodelling for simulation of physiological variables and stroke risk
+15:23-15:26
+154
+Filippo G. Cosi, Wolfgang Giese, Wilhelm Neubert, Stefan Luther, Nagaiah Chamakuri, Ulrich Parlitz and Martin Falcke.Multiscale Modeling of Dyadic Structure-Function Relation in Ventricular Cardiac Myocytes
+15:26-15:29
+191
+Ina Biermayer, Lorenza A. D'Alessandro, Svenja Kemmer, Daniel Lill, Marcel Schilling, Barbara Helm, Alexander Held, MarvinWäsch, Willi Wagner, Martin Finke, Yixin Jiang, Oliver Sedlaczek, Seddik Hammad, André Homeyer, Lars Ole Schwen, MadlenMatz-Soja, Thomas Berg, Andrea Schenk, Tobias Preusser, Steven Dooley, Hans-Ulrich Kauczor, Jens Timmer and UrsulaKlingmüller. Multilevel approach characterizing the progression of fatty liver disease
+15:29-15:30
+304
+Nicolas Sundqvist, Henrik Podéus, Malin Ejneby Silverå, Sebastian Sten, Salvador Dura-Bernal, Soroush Safaei, MariaEngström and Gunnar Cedersund. An interconnected multi-level mechanistic model of the human brain
+Session 18
+: CLINICAL IMPACT AND CHALLENGES OF SYSTEMS BIOLOGY
+13:30-13:50
+377
+Clemens Schmitt. Therapy-related senescence signatures in lymphoma
+13:50-14:10
+378
+Erich Wanker. The genotype-phenotype nexus: uncovering causal mechanisms in neurodegenerative disease withexperimental and theoretical approaches
+14:10-14:25
+4
+Lucile Megret, Barbara Gris, Satish Nair, Jasmin Cevost, Mary Wertz, Jeff Aaronson, Jim Rosinski, Tom Vogt, HillaryWilkinson, Myriam Heiman and Christian Neri. Precision machine-learning identifies a new paradigm for therapeuticdiscovery in Huntington’s disease: remodeling stress response to re-instate neuronal health and resilience.
+14:25-14:37
+126
+Zita Soons, Henrik Cordes, Lars Kuepfer and Hecatos Consortium. Multiple-omics based metabolic modelling reveals effectsof drug-induced liver toxicity
+14:37-14:49
+131
+Thomas Stiehl
+, Laura Orsatti, Roberto Speziale, Pamela Di Pasquale, Edith Monteagudo and Thomas Luft. The role of thekynurenine metabolism in chronic graft-versus-host-disease: Insights from computational modeling and patient data
+14:49-15:01
+284
+Agustin Rodriguez Gonzalez, Max Schelker, Andreas Raue, Bernhard Steiert, Kai Uwe von Prillwitz, Giang Thi Vu, Franz-Georg Wieland, Rafael Arutjunjan, Xiaomeng Li, Thomas Muley, Karsten Senghas, Amanda Tufman, Rudolf Maria Huber,Petros Christopoulos, Michael Thomas, Maria Sereno Moyano, Enrique Casado, Ana Ramirez de Molina, Michael Jarsch,Clemens Kreutz, Marcel Schilling, Jens Timmer and Ursula Klingmüller. Personalized Treatment of Anemia in LungCarcinoma
+15:01-15:11
+5
+Shinya Kuroda
+. Transomic network analysis of glucose metabolism and its dysfunction associated with obesity
+15:11-15:21
+341
+Shauna O'Donovan, Ilja Arts, Lydia Afman and
+Natal van Riel
+. The Mixed Meal Model; quantifying metabolic resilience inoverweight and obesity
+15:21-15:22
+19
+Tongta Sae-Ong, Amelia Barber, Kang Kang, Bastian Seelbinder, Jun Li, Grit Walther, Oliver Kurzai and Gianni Panagiotou.Aspergillus fumigatus pan-genome analysis identifies genetic variants associated with human infection
+15:22-15:23
+88
+Elisa Gomez de Lope
+and Enrico Glaab. Machine learning based pathway deregulation analysis of metabolomics data forParkinson's Disease
+15:23-15:24
+100
+Rebekka Fendt, Ahmed Ghallab, Ute Hofmann, Jan-Frederik Schlender, Maiju Myllys, Reham Hassan, Jan Hengstler and LarsKuepfer. A systems pharmacology approach reveals robust drug metabolism and altered glucuronide disposition in amouse model of liver cirrhosis
+15:24-15:25
+137
+Jeff Didier, Sébastien De Landtsheer, Maria Pires Pacheco, Ali Kishk, Jochen G. Schneider, Ilja Demuth and Thomas Sauter.Machine learning-based prediction of frailty in elderly people - Data from the Berlin Aging Study-II (BASE-II)
+15:25-15:26
+143
+Gunnar Cedersund and Henrik Podéus. M4-health: digital twins that follow you throughout your health journey
+15:26-15:27
+190
+Natalie Morris, Johanna Blee and Sabine Hauert. Defining Design Rules for Next-Generation Snakebite Antivenoms
+15:27-15:28
+262
+Jon Chang, Jiayao Wang and Dennis Vitkup. Neural Circuits Underlying Autism Spectrum Disorders
+15:28-15:29
+298
+Judith Wodke, Ron Henkel and Dagmar Waltemath. MeDaX - our vision for bioMedical Data eXploration
+15:29-15:30
+390
+Laura Sudupe
+, Adrián Ruiz-Villalba, Silvia C. Hernandez, Marina Ainciburu, Amaia Vilas Zornoza, Miren Lasaga, PurificaciónRipalda-Cemboráin, Gloria Abizanda, Sarai Sarvide, Nuria Planell, David Gomez-Cabrero and Felipe Prósper.Characterization of cardiac fibroblast remodeling dynamics after myocardial infarction
+Day 12
+Session 17B
+: WILDCARDS *.* [Part II]
+09:00-09:15
+108
+Philipp Burt and
+Kevin Thurley
+. Data-driven modeling of cell-cell communication networks
+09:15-09:35
+363
+Andrea Gruber and Andreas Reichel. Modelling of Pharmacokinetics and Pharmacodynamics for first-in-man dose selectionof targeted alpha therapy
+09:35-09:45
+2
+Cristhian Roman-Vicharra and
+James Cai
+. A quantum circuit model for inferring gene regulatory networks with applicationto single-cell transcriptomic data
+09:45-09:55
+99
+Martin Falcke and Nicolai V. Friedhoff. Foundations for a theory of IP3 induced Ca2+ signalling - re-inventing a classic.
+09:55-10:05
+127
+Sébastien A. Choteau, Philippe Pierre, Lionel Spinelli, Andreas Zanzoni and Christine Brun. What are the functions of theshort open reading frame-encoded peptides in monocytes? An interactomic approach.
+10:05-10:15
+223
+Iván Domenzain
+and
+Jens Nielsen
+. Reconstruction of a catalogue of enzyme constrained models of metabolism usingGECKO 2.0 and its applications to eukaryote metabolism
+10:15-10:25
+319
+David Nickerson
+, Matthias König, Thomas E Gorochowski, Padraig Gleeson, Martin Golebiewski, Sarah M Keating, Chris JMyers, Falk Schreiber and
+Dagmar Waltemath
+. The COmputational MOdeling in BIology NEtwork in 2022: Evolving needs instandardisation and model reuse
+10:25-10:35
+326
+Seokjoo Chae, Dae Wook Kim, Seunggyu Lee and Jae Kyoung Kim. Spatially-Coordinated Collective Protein Behaviors EnableRobust Circadian Timekeeping
+10:35-10:45
+348
+Sherry Freiesleben
+, Marcus Unverricht-Yeboah,
+Lea Gütebier
+,
+Dagmar Waltemath
+, Ralf Kriehuber and
+Olaf Wolkenhauer
+. Aworkflow for the creation of regulatory networks integrating miRNAs and lncRNAs associated with exposure to ionizingradiation using open source data and tools
+10:45-10:50
+291
+Elisa Domínguez-Hüttinger
+and Reiko J Tanaka. Mathematical modelling of the regulatory mechanisms of keratinocytedifferentiation for epidermal homeostasis
+10:50-10:53
+12
+Lanxin Zhang, Junyu Wang and Max von Kleist. Numerical approaches for the rapid analysis of prophylactic efficacy againstHIV
+10:53-10:56
+164
+Le Yuan, Feiran Li, Jens Nielsen and Eduard Kerkhoven. Deep learning-based kcat prediction enables improved enzyme-constrained model reconstruction
+10:56-10:57
+445
+Marie Coutelier, Jean-Loup Méreaux, Marine Guillaud-Bataille, Léna Guillot-Noël, Claire-Sophie Davoine, Alexis Brice andAlexandra Durr. Exploring the missing heritability in SPG7 heterozygous carriers with Whole Genome Sequencing
+10:57-10:58
+452
+Leon Strenger, Nikos Karaiskos, Jan Licha, Tancredi Pentimalli, Marie Schott, Elena Splendiani, Giuseppe Macino andNikolaus Rajewsky. Dissecting the Developing Mouse Brain at Spatial Single-Cell Resolution Using PASTA-seq
+10:58-10:59
+455
+Christian Simonsson, Wolf Claus Bartholomä, Anna Lindhoff Larsson, Markus Karlsson, Bengt Norén, Gunnar Cedersund,Nils Dahlström, Per Sandström and Peter Lundberg. An in silico resection to estimate global and regional hepatobiliaryfunction in patients undergoing hepatectomy
+10:59-11:00
+460
+Subash Balsamy, Juan Pablo Bernal Tamayo, Larisa Morales-Soto, Juan M. Diaz, Ali Balubaid, Sandip Saha, Sumeer A. Khan,David Gomez-Cabrero, Narsis A. Kiani and Jesper N. Tegner. Evaluation of methods to compute quasi-potential functionsand their use as systems biology models
+Session 19
+: MACHINE LEARNING / ARTIFICIAL INTELLIGENCE
+09:00-09:21
+177
+Hiroshi Mamitsuka
+. Hypergraph for predicting adverse drug reactions
+09:21-09:43
+385
+Trey Ideker. Building a Mind for Cancer
+09:43-09:56
+13
+Alexander Kroll, Martin Engqvist, David Heckmann and Martin Lercher. Prediction of enzyme kinetic parameters andsubstrate scopes using artificial intelligence
+09:56-10:09
+271
+Danai Vagiaki, Manu Saraswat, Tobias Heinen and
+Oliver Stegle
+. DeepCellRegMap: An interpretable deep learningframework for mapping genetic effects at cell subtype resolution using large-scale single-cell sequencing data
+10:09-10:19
+48
+Heewon Park and
+Satoru Miyano
+. A novel drug response network analysis on supercomputers uncovered gastric cancer drugsensitivity mechanism
+10:19-10:29
+134
+Vivian Würf, Nikolai Köhler, Michael Witting and Josch Konstantin Pauling. LipiDetective: a Deep Learning Model for theDetection of Lipid Species in Mass Spectra
+10:29-10:39
+299
+Paola Vera-Licona
+,
+Lauren Marazzi
+, Milan Shah, Shreedula Balakrishnan and Ananya Patil. NETISCE: A dynamical systemsand control theory approach to cell reprogramming
+10:39-10:42
+22
+Charlotte Merzbacher
+and
+Diego Oyarzún
+. Fast and scalable machine learning approach for dynamic metabolic engineering
+10:42-10:45
+30
+Jakob Vanhoefer, Antonia Körner, Domagoj Doresic, Jan Hasenauer and Dilan Pathirana. Efficient brute-force modelselection by iterative elimination of less useful model subspaces
+10:45-10:48
+165
+January Weiner
+. The insidious trappings of gene set enrichments
+10:48-10:51
+259
+Gihanna Galindez, Markus List, Jan Baumbach, David B. Blumenthal and Tim Kacprowski. Inference of differential generegulatory networks from gene expression data using boosted differential trees
+10:51-10:54
+391
+Daniel Brunnsåker, Filip Kronström, Ievgeniia Tiukova and Ross King. Metabolic profile predictions using efficient andinterpretable data descriptors generated with relational learning
+(chairs: Michael Yaffe, Paula Picotti)
+(chair: Rune Linding)
+(chair: Rune Linding)
+10:54-10:57
+458
+Juan P. Bernal-Tamayo, David Gomez-Cabrero, Narsis Kiani and Jesper N. Tegner. Construction and Decomposition ofCellular Energy Landscapes using Hopfield Neural Networks
+10:57-10:58
+50
+Moein E. Samadi
+, Sandra Kiefer, Sebastian Fritsch, Johannes Bickenbach and Andreas Schuppert. A training strategy forhybrid models to break the curse of dimensionality: An application in mortality estimation for cohorts of COVID-19 patients
+10:58-10:59
+102
+Gaurav Jumde. Predicting developmental states in zebrafish using transfer learning
+10:59-11:00
+424
+David Martínez-Enguita, Sanjiv Dwivedi and Mika Gustafsson. New data-driven gene representations using deepautoencoders at multiple omics to identify candidate disease genes and robust classifiers
+Session 21
+: NETWORK BIOLOGY & PRECISION MEDICINE
+09:00-09:20
+376
+Paola Picotti. Proteomes in 3D: Structural proteome snapshots as a new functional ‘omics readout
+09:20-09:40
+77
+Lani Wu
+and
+Steven Altschuler
+. Cancer cell fate decisions
+09:40-09:52
+46
+Svenja Kemmer
+, Mireia Berdiel-Acer, Eileen Reinz, Johanna Sonntag, Nooraldeen Tarade, Stephan Bernhardt, MirjamFehling-Kaschek, Max Hasmann, Ulrike Korf, Stefan Wiemann and Jens Timmer. Disentangling Proliferation Signaling inBreast Cancer Subtypes based on an integrative modeling approach
+09:52-10:04
+289
+Avlant Nilsson
+, Joshua M. Peters, Nikolaos Meimetis, Bryan Bryson and Douglas A. Lauffenburger. Combinatorial effects ofligands are predicted by a genome-scale model of signaling based on artificial neural networks
+10:04-10:16
+337
+Craig Barry
+,
+Gert Talbo
+and
+Esteban Marcellin
+. Implementation of multiplexed single cell proteomics for the investigation ofcellular heterogeneity in mammalian cell lines
+10:16-10:26
+303
+Jana Zecha, Florian Bayer, Svenja Wiechmann, Julia Woortman, Nicola Berner, Julian Müller, Annika Schneider, StephanieHeinzlmeir, Matthew The, Mathias Wilhelm and Bernhard Kuster. DecryptM: decrypting drug actions and proteinmodification by dose- and time-resolved proteomics
+10:26-10:36
+405
+Ielyaas Cloete, Victoria M. Smith, Ross A. Jackson,
+Andrea Pepper
+,
+Chris Pepper
+, Meike Vogler, Martin J. S. Dyer and
+SimonMitchell
+. Computational modeling of DLBCL predicts response to BH3-mimetics
+10:36-10:39
+14
+Kittisak Taoma, Monrudee Liangruksa, Marasri Ruengjitchatchawalya and Teeraphan Laomettachit. A Boolean ModelingFramework for Drug Synergy Prediction in Breast Cancer
+10:39-10:42
+63
+Masatoshi Haga
+,
+Tsuyoshi Ishii
+and
+Mariko Okada
+. Data-driven mathematical modeling of human skin aging and itsapplication for natural compound screening
+10:42-10:45
+188
+Rosario Astaburuaga-García
+, Samet Mutlu, Thomas Sell, Pablo Branz, Anja Sieber, Bertram Klinger, Kirsten Lauber and NilsBlüthgen. Ionizing radiation triggers differential signaling dynamics of p-p53 and p-ERK1/2 in sensitive and resistantHNSCC cell clones
+10:45-10:48
+212
+Nataša Puzović
+, Tanvi Madaan and Julien Y. Dutheil. Being noisy in a crowd: differential selective pressure on geneexpression noise in model gene regulatory networks
+10:48-10:51
+401
+Luigi Ferraro, Scala Giovanni, Michele Ceccarelli, Raghvendra Mall and Emanuele Carosati. Multi-Omics Visible Drug Activityprediction, interpreting the biological processes underlying drug sensitivity
+10:51-10:54
+438
+Adrian Lopez Garcia de Lomana
+, Arnar Ingi Vilhjálmsson, Pär Ingemar Johansson and Óttar Rolfsson. Molecular regulatorsof catecholamine response in human pulmonary microvascular endothelial cells
+10:54-10:55
+430
+Balazs Erdos, Johan Westerhuis, Michiel Adriaens, Shauna O'Donovan, Ren Xie, Cecile Singh-Povel, Age Smilde and Ilja Arts.Analysis of multivariate longitudinal metabolomics data from meal challenges using RM-ASCA+
+10:55-10:56
+434
+Gabriele Schreiber, Aviv Korman, Sanchir Anar, Clara Hennersdorf, Marina Zecchin, Gustav Schmidt, André Klage, GuillermoGarcia Martinez, Marius Jessen and Edda Klipp. FISHing for Correlation
+10:56-10:57
+437
+Fianne Sips, Alberto Palazzin and Roberta Bursi. Personalized medicine for Multiple Sclerosis treatment strategies at theindividual and population level
+10:57-10:58
+447
+Bulat Zagidullin
+,
+Ziyan Wang
+,
+Yuanfang Guan
+,
+Esa Pitkänen
+and
+Jing Tang
+. Comparative analysis of molecular fingerprints inprediction of drug combination effects
+10:58-10:59
+449
+Julia Åkesson, Sara Hojjati, Sandra Hellberg, Johanna Raffetseder, Ingrid Kockum, Tomas Olsson, Mohsen Khademi, FredrikPiehl, Johan Mellergård, Maria Jenmalm, Claudio Altafini, Zelmina Lubovac-Pilav, Jan Ernerudh and Mika Gustafsson.Proteomics profiling revealed a combination of protein biomarkers for predicting disease trajectory of multiple sclerosis
+10:59-11:00
+457
+Polina Lakrisenko, Andre Wegner, Daniel Weindl, Tobias Ludwig and Nils Krause. Data-driven modeling of mitochondrialmetabolism
+
